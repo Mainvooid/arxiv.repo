@@ -7,6 +7,12 @@
 
 ## [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
+- **ICface: Interpretable and Controllable Face Reenactment Using GANs**
+   - ICface : 使用GANs进行可解释和可控的人脸重现
+   - Soumya Tripathy, Juho Kannala, Esa Rahtu
+   - [https://arxiv.org/abs/1904.01909](https://arxiv.org/abs/1904.01909)
+   - [https://github.com/Blade6570/icface](https://github.com/Blade6570/icface)*(waiting for update)*
+
 - **FaceQnet: Quality Assessment for Face Recognition based on Deep Learning**
    - FaceQnet : 基于深度学习的人脸识别质量评估
    - Javier Hernandez-Ortega, Javier Galbally, Julian Fierrez, Rudolf Haraksim, Laurent Beslay
