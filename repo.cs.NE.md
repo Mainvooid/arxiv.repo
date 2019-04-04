@@ -7,9 +7,11 @@
 
 ## [cs.NE](https://arxiv.org/list/cs.NE/recent)
 
-```
-Title :
-Author:
-Paper :
-Repo  :
-```
+<!--
+
+- **title**
+   - author
+   - paper
+   - repo
+
+-->

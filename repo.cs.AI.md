@@ -7,9 +7,11 @@
 
 ## [cs.AI](https://arxiv.org/list/cs.AI/recent) 
 
-```
-Title :
-Author:
-Paper :
-Repo  :
-```
+<!--
+
+- **title**
+   - author
+   - paper
+   - repo
+
+-->

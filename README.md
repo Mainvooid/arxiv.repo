@@ -16,13 +16,12 @@ repo.cs.AI.md
 Newer papers should be inserted from the head of the file.
 
 Item format example:
-```
-Title :
-Author:
-Paper :
-Repo  :
-```
-
+- **title**
+   - author
+   - paper
+   - repo
+   
+   
 ## Proposals
 Consider whether Python crawlers can be used to automatically capture and generate MD files.
 

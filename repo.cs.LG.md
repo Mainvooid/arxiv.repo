@@ -7,9 +7,11 @@
 
 ## [cs.LG](https://arxiv.org/list/cs.LG/recent)
 
-```
-Title :
-Author:
-Paper :
-Repo  :
-```
+<!--
+
+- **title**
+   - author
+   - paper
+   - repo
+
+-->
