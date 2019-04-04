@@ -8,6 +8,12 @@
 ## [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
 - **ICface: Interpretable and Controllable Face Reenactment Using GANs**
+   - CubiCasa5K : 用于平面图图像分析的数据集和改进的多任务模型
+   - Ahti Kalervo, Juha Ylioinas, MarkusHäikiö, Antti Karhu, Juho Kannala
+   - [https://arxiv.org/abs/1904.01920](https://arxiv.org/abs/1904.01920)
+   - [https://github.com/CubiCasa/CubiCasa5k](https://github.com/CubiCasa/CubiCasa5k)
+
+- **ICface: Interpretable and Controllable Face Reenactment Using GANs**
    - ICface : 使用GANs进行可解释和可控的人脸重现
    - Soumya Tripathy, Juho Kannala, Esa Rahtu
    - [https://arxiv.org/abs/1904.01909](https://arxiv.org/abs/1904.01909)
