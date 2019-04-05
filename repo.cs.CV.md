@@ -11,7 +11,7 @@
    - Libra R-CNN : 面向对象检测的均衡学习
    - Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin
    - [https://arxiv.org/abs/1904.02701](https://arxiv.org/abs/1904.02701) *(CVPR 2019)*
-   - [https://github.com/OceanPang/Libra_R-CNN](https://github.com/OceanPang/Libra_R-CNN)*(waiting)*
+   - [https://github.com/OceanPang/Libra_R-CNN](https://github.com/OceanPang/Libra_R-CNN)*(release before June)*
 
 - **YOLACT: Real-time Instance Segmentation**
    - YOLACT : 实时的实例分割
@@ -29,7 +29,7 @@
    - ICface : 使用GANs进行可解释和可控的人脸重现
    - Soumya Tripathy, Juho Kannala, Esa Rahtu
    - [https://arxiv.org/abs/1904.01909](https://arxiv.org/abs/1904.01909)
-   - [https://github.com/Blade6570/icface](https://github.com/Blade6570/icface)*(waiting for update)*
+   - [https://github.com/Blade6570/icface](https://github.com/Blade6570/icface)*(coming soon..)*
 
 - **FaceQnet: Quality Assessment for Face Recognition based on Deep Learning**
    - FaceQnet : 基于深度学习的人脸识别质量评估
@@ -44,7 +44,7 @@
    - [comning soon]()
 
 - **Stereo R-CNN based 3D Object Detection for Autonomous Driving**
-   - 基于Stereo R-CNN的自主驾驶三维目标检测
+   - 基于Stereo R-CNN的自动驾驶三维目标检测
    - Peiliang Li, Xiaozhi Chen, Shaojie Shen
    - [https://arxiv.org/abs/1902.09738](https://arxiv.org/abs/1902.09738)*(CVPR 2019)*
    - [will publicly]()
@@ -54,3 +54,11 @@
    - Yuying Ge, Ruimao Zhang, Lingyun Wu, Xiaogang Wang, Xiaoou Tang, Ping Luo
    - [https://arxiv.org/abs/1901.07973](https://arxiv.org/abs/1901.07973)
    - [https://github.com/switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2)
+
+---
+
+- **Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**
+   - 基于视觉深度估计的Pseudo-LiDAR : 填补了自动驾驶三维目标检测的空白
+   - Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger
+   - [https://arxiv.org/abs/1812.07179](https://arxiv.org/abs/1812.07179)*(CVPR 2019)*
+   - [https://github.com/mileyan/pseudo_lidar](https://github.com/mileyan/pseudo_lidar)*(coming soon..)*
