@@ -7,6 +7,12 @@
 
 ## [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
+- **Res2Net: A New Multi-scale Backbone Architecture**
+   - Res2Net : 一种新的多尺度骨干结构
+   - Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr
+   - [https://arxiv.org/abs/1904.01169](https://arxiv.org/abs/1904.01169)
+   - [comning soon...]()
+
 - **YOLACT: Real-time Instance Segmentation**
    - YOLACT : 实时的实例分割
    - Daniel Bolya, Chong Zhou, Fanyi Xiao, Yong Jae Lee
