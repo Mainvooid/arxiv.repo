@@ -19,7 +19,7 @@
    - [https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
    - [https://github.com/dbolya/yolact](https://github.com/dbolya/yolact)
 
-- **ICface: Interpretable and Controllable Face Reenactment Using GANs**
+- **CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis**
    - CubiCasa5K : 用于平面图图像分析的数据集和改进的多任务模型
    - Ahti Kalervo, Juha Ylioinas, MarkusHäikiö, Antti Karhu, Juho Kannala
    - [https://arxiv.org/abs/1904.01920](https://arxiv.org/abs/1904.01920)
