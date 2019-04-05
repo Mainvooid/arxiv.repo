@@ -46,7 +46,7 @@
 - **TensorMask: A Foundation for Dense Object Segmentation**
    - TensorMask : 密集对象分割的基础
    - Xinlei Chen, Ross Girshick, Kaiming He, Piotr Dollár
-   - https://arxiv.org/abs/1903.12174](https://arxiv.org/abs/1903.12174)
+   - [https://arxiv.org/abs/1903.12174](https://arxiv.org/abs/1903.12174)
    - [comning soon]()
 
 - **SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition**
