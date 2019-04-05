@@ -7,6 +7,12 @@
 
 ## [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
+- **Libra R-CNN: Towards Balanced Learning for Object Detection**
+   - Libra R-CNN : 面向对象检测的均衡学习
+   - Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin
+   - [https://arxiv.org/abs/1904.02701](https://arxiv.org/abs/1904.02701)
+   - [https://github.com/OceanPang/Libra_R-CNN](https://github.com/OceanPang/Libra_R-CNN)*(waiting)*
+
 - **ICface: Interpretable and Controllable Face Reenactment Using GANs**
    - CubiCasa5K : 用于平面图图像分析的数据集和改进的多任务模型
    - Ahti Kalervo, Juha Ylioinas, MarkusHäikiö, Antti Karhu, Juho Kannala
