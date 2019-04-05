@@ -43,6 +43,12 @@
    - [https://arxiv.org/abs/1904.01169](https://arxiv.org/abs/1904.01169)
    - [comning soon]()
 
+- **SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition**
+   - SimpleDet : 一个简单而通用的分布式对象检测和实例识别框架
+   - Yuntao Chen, Chenxia Han, Yanghao Li, Zehao Huang, Yi Jiang, Naiyan Wang, Zhaoxiang Zhang
+   - [https://arxiv.org/abs/1903.05831](https://arxiv.org/abs/1903.05831)
+   - [https://github.com/TuSimple/simpledet](https://github.com/TuSimple/simpledet)
+
 - **Stereo R-CNN based 3D Object Detection for Autonomous Driving**
    - Stereo R-CNN : 自动驾驶三维目标检测
    - Peiliang Li, Xiaozhi Chen, Shaojie Shen
