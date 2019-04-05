@@ -7,6 +7,8 @@
 ## Introduction
 A collection of papers and their corresponding repositories for indexing papers on arxiv that have published project code.
 
+We hope that the authors of the relevant papers will actively add and update information here as a list to promote broader and more comprehensive discussions.
+
 ## Contribution
 Such a file naming format is conducive to retrieval and classification.
 ```
@@ -20,8 +22,7 @@ Item format example:
    - author
    - paper
    - repo
-   
-   
+
 ## Proposals
 Consider whether Python crawlers can be used to automatically capture and generate MD files.
 
