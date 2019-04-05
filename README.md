@@ -5,7 +5,7 @@
 ![arxiv.repo](icon.png)
 
 ## Introduction
-A collection of papers and their corresponding repositories for indexing papers on arxiv that have published project code.
+A collection of papers and their corresponding repositories for indexing papers on arxiv that have published project code or coming soon.
 
 We hope that the authors of the relevant papers will actively add and update information here as a list to promote broader and more comprehensive discussions.
 
