@@ -44,10 +44,16 @@
    - [comning soon]()
 
 - **Stereo R-CNN based 3D Object Detection for Autonomous Driving**
-   - 基于Stereo R-CNN的自动驾驶三维目标检测
+   - Stereo R-CNN : 自动驾驶三维目标检测
    - Peiliang Li, Xiaozhi Chen, Shaojie Shen
    - [https://arxiv.org/abs/1902.09738](https://arxiv.org/abs/1902.09738)*(CVPR 2019)*
    - [will publicly]()
+
+- **Bag of Freebies for Training Object Detection Neural Networks**
+   - Glouon CV : 训练目标检测神经网络的免费工具包
+   - Zhi Zhang, Tong He, Hang Zhang, Zhongyuan Zhang, Junyuan Xie, Mu Li
+   - [https://arxiv.org/abs/1902.04103](https://arxiv.org/abs/1902.04103)
+   - [https://github.com/dmlc/gluon-cv](https://github.com/dmlc/gluon-cv)
 
 - **DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images**
    - DeepFashion2 : 用于服装图像的检测、姿势估计、分割和重识别的通用基准
@@ -58,13 +64,13 @@
 ---
 
 - **Bounding Box Regression with Uncertainty for Accurate Object Detection**
-   - 用于精确目标检测中具有不确定性的边界框回归
+   - KL-Loss :用于精确目标检测中具有不确定性的边界框回归
    - Yihui He, Chenchen Zhu, Jianren Wang, Marios Savvides, Xiangyu Zhang
    - [https://arxiv.org/abs/1809.08545](https://arxiv.org/abs/1809.08545)*(CVPR 2019)*
    - [https://github.com/yihui-he/KL-Loss](https://github.com/yihui-he/KL-Loss)
 
 - **Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**
-   - 基于视觉深度估计的Pseudo-LiDAR : 填补了自动驾驶三维目标检测的空白
+   - Pseudo-LiDAR : 基于视觉深度估计 填补了自动驾驶三维目标检测的空白
    - Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger
    - [https://arxiv.org/abs/1812.07179](https://arxiv.org/abs/1812.07179)*(CVPR 2019)*
    - [https://github.com/mileyan/pseudo_lidar](https://github.com/mileyan/pseudo_lidar)*(coming soon..)*
