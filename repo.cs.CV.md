@@ -7,23 +7,17 @@
 
 ## [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
-- **Res2Net: A New Multi-scale Backbone Architecture**
-   - Res2Net : 一种新的多尺度骨干结构
-   - Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr
-   - [https://arxiv.org/abs/1904.01169](https://arxiv.org/abs/1904.01169)
-   - [comning soon...]()
+- **Libra R-CNN: Towards Balanced Learning for Object Detection**
+   - Libra R-CNN : 面向对象检测的均衡学习
+   - Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin
+   - [https://arxiv.org/abs/1904.02701](https://arxiv.org/abs/1904.02701) *(CVPR 2019)*
+   - [https://github.com/OceanPang/Libra_R-CNN](https://github.com/OceanPang/Libra_R-CNN)*(waiting)*
 
 - **YOLACT: Real-time Instance Segmentation**
    - YOLACT : 实时的实例分割
    - Daniel Bolya, Chong Zhou, Fanyi Xiao, Yong Jae Lee
    - [https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
    - [https://github.com/dbolya/yolact](https://github.com/dbolya/yolact)
-
-- **Libra R-CNN: Towards Balanced Learning for Object Detection**
-   - Libra R-CNN : 面向对象检测的均衡学习
-   - Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin
-   - [https://arxiv.org/abs/1904.02701](https://arxiv.org/abs/1904.02701) *(CVPR 2019)*
-   - [https://github.com/OceanPang/Libra_R-CNN](https://github.com/OceanPang/Libra_R-CNN)*(waiting)*
 
 - **ICface: Interpretable and Controllable Face Reenactment Using GANs**
    - CubiCasa5K : 用于平面图图像分析的数据集和改进的多任务模型
@@ -42,6 +36,18 @@
    - Javier Hernandez-Ortega, Javier Galbally, Julian Fierrez, Rudolf Haraksim, Laurent Beslay
    - [https://arxiv.org/abs/1904.01740](https://arxiv.org/abs/1904.01740) *(ICB 2019)*
    - [https://github.com/uam-biometrics/FaceQnet](https://github.com/uam-biometrics/FaceQnet)
+
+- **Res2Net: A New Multi-scale Backbone Architecture**
+   - Res2Net : 一种新的多尺度骨干结构
+   - Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr
+   - [https://arxiv.org/abs/1904.01169](https://arxiv.org/abs/1904.01169)
+   - [comning soon]()
+
+- **Stereo R-CNN based 3D Object Detection for Autonomous Driving**
+   - 基于Stereo R-CNN的自主驾驶三维目标检测
+   - Peiliang Li, Xiaozhi Chen, Shaojie Shen
+   - [https://arxiv.org/abs/1902.09738](https://arxiv.org/abs/1902.09738)*(CVPR 2019)*
+   - [will publicly]()
 
 - **DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images**
    - DeepFashion2 : 用于服装图像的检测、姿势估计、分割和重识别的通用基准
