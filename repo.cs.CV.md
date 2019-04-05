@@ -7,10 +7,16 @@
 
 ## [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
+- **YOLACT: Real-time Instance Segmentation**
+   - YOLACT : 实时的实例分割
+   - Daniel Bolya, Chong Zhou, Fanyi Xiao, Yong Jae Lee
+   - [https://arxiv.org/abs/1904.02689](https://arxiv.org/abs/1904.02689)
+   - [https://github.com/dbolya/yolact](https://github.com/dbolya/yolact)
+
 - **Libra R-CNN: Towards Balanced Learning for Object Detection**
    - Libra R-CNN : 面向对象检测的均衡学习
    - Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin
-   - [https://arxiv.org/abs/1904.02701](https://arxiv.org/abs/1904.02701)
+   - [https://arxiv.org/abs/1904.02701](https://arxiv.org/abs/1904.02701) *(CVPR 2019)*
    - [https://github.com/OceanPang/Libra_R-CNN](https://github.com/OceanPang/Libra_R-CNN)*(waiting)*
 
 - **ICface: Interpretable and Controllable Face Reenactment Using GANs**
@@ -28,7 +34,7 @@
 - **FaceQnet: Quality Assessment for Face Recognition based on Deep Learning**
    - FaceQnet : 基于深度学习的人脸识别质量评估
    - Javier Hernandez-Ortega, Javier Galbally, Julian Fierrez, Rudolf Haraksim, Laurent Beslay
-   - [https://arxiv.org/abs/1904.01740](https://arxiv.org/abs/1904.01740)
+   - [https://arxiv.org/abs/1904.01740](https://arxiv.org/abs/1904.01740) *(ICB 2019)*
    - [https://github.com/uam-biometrics/FaceQnet](https://github.com/uam-biometrics/FaceQnet)
 
 - **DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images**
