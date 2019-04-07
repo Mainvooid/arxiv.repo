@@ -43,6 +43,12 @@
    - [https://arxiv.org/abs/1904.01169](https://arxiv.org/abs/1904.01169)
    - [comning soon]()
 
+- **Lending Orientation to Neural Networks for Cross-view Geo-localization**
+   - OriCNN : 借助于神经网络的交叉视图地理定位
+   - Liu Liu, Hongdong Li
+   - [https://arxiv.org/abs/1903.12351](https://arxiv.org/abs/1903.12351)
+   - [https://github.com/Liumouliu/OriCNN](https://github.com/Liumouliu/OriCNN)
+
 - **TensorMask: A Foundation for Dense Object Segmentation**
    - TensorMask : 密集对象分割的基础
    - Xinlei Chen, Ross Girshick, Kaiming He, Piotr Dollár
