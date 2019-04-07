@@ -116,3 +116,10 @@
    - Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger
    - [https://arxiv.org/abs/1812.07179](https://arxiv.org/abs/1812.07179) *(CVPR 2019)*
    - [https://github.com/mileyan/pseudo_lidar](https://github.com/mileyan/pseudo_lidar)*(coming soon..)*
+
+- **PoseFix: Model-agnostic General Human Pose Refinement Network**
+   - PoseFix : 模型无关的一般人体姿态优化网络
+   - Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee
+   - [https://arxiv.org/abs/1812.03595](https://arxiv.org/abs/1812.03595) *(CVPR 2019)*
+   - [https://github.com/mks0601/PoseFix_RELEASE](https://github.com/mks0601/PoseFix_RELEASE)
+   
