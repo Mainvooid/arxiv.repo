@@ -122,4 +122,9 @@
    - Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee
    - [https://arxiv.org/abs/1812.03595](https://arxiv.org/abs/1812.03595) *(CVPR 2019)*
    - [https://github.com/mks0601/PoseFix_RELEASE](https://github.com/mks0601/PoseFix_RELEASE)
-   
+
+- **CCNet: Criss-Cross Attention for Semantic Segmentation**
+   - CCNet : 语义分割的交叉注意力模型
+   - Zilong Huang, Xinggang Wang, Lichao Huang, Chang Huang, Yunchao Wei, Wenyu Liu
+   - [https://arxiv.org/abs/1811.11721](https://arxiv.org/abs/1811.11721)
+   - [https://github.com/speedinghzl/CCNet](https://github.com/speedinghzl/CCNet)
