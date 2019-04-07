@@ -91,6 +91,12 @@
    - [https://arxiv.org/abs/1902.04103](https://arxiv.org/abs/1902.04103)
    - [https://github.com/dmlc/gluon-cv](https://github.com/dmlc/gluon-cv)
 
+- **Virtual Conditional Generative Adversarial Networks**
+   - VCGAN : 虚拟条件生成对抗网络
+   - Haifeng Shi, Guanyu Cai, Yuqin Wang, Shaohua Shang, Lianghua He
+   - [https://arxiv.org/abs/1901.09822](https://arxiv.org/abs/1901.09822)
+   - [https://github.com/annonnymmouss/vcgan](https://github.com/annonnymmouss/vcgan)
+
 - **DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images**
    - DeepFashion2 : 用于服装图像的检测、姿势估计、分割和重识别的通用基准
    - Yuying Ge, Ruimao Zhang, Lingyun Wu, Xiaogang Wang, Xiaoou Tang, Ping Luo
