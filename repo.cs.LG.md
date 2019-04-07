@@ -7,11 +7,8 @@
 
 ## [cs.LG](https://arxiv.org/list/cs.LG/recent)
 
-<!--
-
-- **title**
-   - author
-   - paper
-   - repo
-
--->
+- **Horovod: fast and easy distributed deep learning in TensorFlow**
+   - Horovod : 在TensorFlow中快速简便地分发深度学习
+   - Alexander Sergeev, Mike Del Balso
+   - [https://arxiv.org/abs/1802.05799](https://arxiv.org/abs/1802.05799)
+   - [https://github.com/horovod/horovod](https://github.com/horovod/horovod)
