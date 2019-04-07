@@ -73,6 +73,12 @@
    - [https://arxiv.org/abs/1902.09738](https://arxiv.org/abs/1902.09738) *(CVPR 2019)*
    - [will publicly]()
 
+- **Deep High-Resolution Representation Learning for Human Pose Estimation**
+   - Pose HRNet: 用于人体姿势估计的深度高分辨率表示学习
+   - Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang
+   - [https://arxiv.org/abs/1902.09212](https://arxiv.org/abs/1902.09212) *(CVPR 2019)*
+   - [https://github.com/leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
+
 - **Bag of Freebies for Training Object Detection Neural Networks**
    - Glouon CV : 训练目标检测神经网络的免费工具包
    - Zhi Zhang, Tong He, Hang Zhang, Zhongyuan Zhang, Junyuan Xie, Mu Li
