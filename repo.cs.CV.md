@@ -79,6 +79,12 @@
    - [https://arxiv.org/abs/1902.09212](https://arxiv.org/abs/1902.09212) *(CVPR 2019)*
    - [https://github.com/leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 
+- **HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification**
+   - HybridSN : 探索高光谱图像分类的3D-2D CNN特征层次
+   - Swalpa Kumar Roy, Gopal Krishna, Shiv Ram Dubey, Bidyut B. Chaudhuri
+   - [https://arxiv.org/abs/1902.06701](https://arxiv.org/abs/1902.06701)
+   - [https://github.com/gokriznastic/HybridSN](https://github.com/gokriznastic/HybridSN)
+
 - **Bag of Freebies for Training Object Detection Neural Networks**
    - Glouon CV : 训练目标检测神经网络的免费工具包
    - Zhi Zhang, Tong He, Hang Zhang, Zhongyuan Zhang, Junyuan Xie, Mu Li
