@@ -7,6 +7,12 @@
 
 ## [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
+- **High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection**
+   - CSP : 高级语义特征检测 : 行人检测的新视角
+   - Wei Liu, Shengcai Liao, Weiqiang Ren, Weidong Hu, Yinan Yu
+   - [https://arxiv.org/abs/1904.02948](https://arxiv.org/abs/1904.02948) *(CVPR 2019)*
+   - [https://github.com/liuwei16/CSP](https://github.com/liuwei16/CSP) 
+
 - **Libra R-CNN: Towards Balanced Learning for Object Detection**
    - Libra R-CNN : 面向对象检测的均衡学习
    - Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin
