@@ -19,6 +19,7 @@ We hope that the authors of the relevant papers will actively add and update inf
 - [Human-Computer Interaction](repo.cs.HC.md)
 - [Machine Learning](repo.cs.LG.md)
 - [Neural and Evolutionary Computing](repo.cs.NE.md)
+- [Software Engineering](repo.cs.SE.md)
 
 ## Contribution
 Such a file naming format is conducive to retrieval and classification.
