@@ -10,5 +10,5 @@
 - **CoaCor: Code Annotation for Code Retrieval with Reinforcement Learning**
    - CoaCor  : 代码注释, 用于代码检索和强化学习
    - Ziyu Yao, Jayavardhan Reddy Peddamail, Huan Sun
-   - [https://arxiv.org/abs/1904.00720](https://arxiv.org/abs/1904.00720)
+   - [https://arxiv.org/abs/1904.00720](https://arxiv.org/abs/1904.00720) *(www 2019)*
    - [https://github.com/LittleYUYU/CoaCor](https://github.com/LittleYUYU/CoaCor)
