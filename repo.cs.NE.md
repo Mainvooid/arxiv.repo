@@ -7,11 +7,8 @@
 
 ## [cs.NE](https://arxiv.org/list/cs.NE/recent)
 
-<!--
-
-- **title**
-   - author
-   - paper
-   - repo
-
--->
+- **A Style-Based Generator Architecture for Generative Adversarial Networks**
+   - StyleGAN  : 一种用于生成对抗网络的基于样式的生成器结构
+   - Tero Karras, Samuli Laine, Timo Aila
+   - [https://arxiv.org/abs/1812.04948](https://arxiv.org/abs/1812.04948)
+   - [https://github.com/NVlabs/stylegan](https://github.com/NVlabs/stylegan)
