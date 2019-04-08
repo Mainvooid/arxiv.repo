@@ -85,6 +85,12 @@
    - [https://arxiv.org/abs/1902.06701](https://arxiv.org/abs/1902.06701)
    - [https://github.com/gokriznastic/HybridSN](https://github.com/gokriznastic/HybridSN)
 
+- **Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank**
+   - RankIQA : 利用自主学习排序在CNN中利用未标记数据
+   - Xialei Liu, Joost van de Weijer, Andrew D. Bagdanov
+   - [https://arxiv.org/abs/1902.06285](https://arxiv.org/abs/1902.06285) *(TPAMI)*
+   - [https://github.com/xialeiliu/RankIQA](https://github.com/xialeiliu/RankIQA)
+
 - **Bag of Freebies for Training Object Detection Neural Networks**
    - Glouon CV : 训练目标检测神经网络的免费工具包
    - Zhi Zhang, Tong He, Hang Zhang, Zhongyuan Zhang, Junyuan Xie, Mu Li
