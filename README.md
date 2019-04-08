@@ -15,6 +15,7 @@ We hope that the authors of the relevant papers will actively add and update inf
 - [Computation and Language](repo.cs.CL.md)
 - [Cryptography and Security](repo.cs.CR.md)
 - [Computer Vision and Pattern Recognition](repo.cs.CV.md)
+- [Distributed, Parallel, and Cluster Computing](repo.cs.DC.md)
 - [Human-Computer Interaction](repo.cs.HC.md)
 - [Machine Learning](repo.cs.LG.md)
 - [Neural and Evolutionary Computing](repo.cs.NE.md)
