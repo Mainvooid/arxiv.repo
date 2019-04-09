@@ -1,7 +1,6 @@
 # [arxiv.repo](https://github.com/Mainvooid/arxiv.repo)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-cs-green.svg)]()
-[![HitCount](http://hits.dwyl.io/Mainvooid/arxiv.repo.svg)](http://hits.dwyl.io/Mainvooid/arxiv.repo)
 
 ![arxiv.repo](icon.png)
 
@@ -20,6 +19,9 @@ We hope that the authors of the relevant papers will actively add and update inf
 - [Machine Learning](repo.cs.LG.md)
 - [Neural and Evolutionary Computing](repo.cs.NE.md)
 - [Software Engineering](repo.cs.SE.md)
+
+## Related list
+[A paper list of object detection using deep learning. ](https://github.com/hoya012/deep_learning_object_detection)
 
 ## Contribution
 Such a file naming format is conducive to retrieval and classification.

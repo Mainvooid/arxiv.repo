@@ -7,6 +7,13 @@
 
 ## [cs.CV](https://arxiv.org/list/cs.CV/recent)
 
+- **ContextDesc: Local Descriptor Augmentation with Cross-Modality Context**
+[[1904.04084]](https://arxiv.org/abs/1904.04084)
+[[pdf]](https://arxiv.org/pdf/1904.04084)
+[[repo]](https://github.com/lzx551402/contextdesc)
+   - ContextDesc : 使用跨模态上下文扩展局部描述符
+   - Zixin Luo, Tianwei Shen, Lei Zhou, Jiahui Zhang, Yao Yao, Shiwei Li, Tian Fang, Long Quan
+
 - **High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection**
    - CSP : 高级语义特征检测 : 行人检测的新视角
    - Wei Liu, Shengcai Liao, Weiqiang Ren, Weidong Hu, Yinan Yu
