@@ -21,7 +21,8 @@ We hope that the authors of the relevant papers will actively add and update inf
 - [Software Engineering](repo.cs.SE.md)
 
 ## Related list
-[A paper list of object detection using deep learning. ](https://github.com/hoya012/deep_learning_object_detection)
+- [A paper list of object detection using deep learning. ](https://github.com/hoya012/deep_learning_object_detection)
+- [Recommended Papers for Deep Learning in Computer Vision Field.](https://github.com/ArcherFMY/Paper_Reading_List)
 
 ## Contribution
 Such a file naming format is conducive to retrieval and classification.
