@@ -7,8 +7,23 @@
 
 ## [cs.SE](https://arxiv.org/list/cs.SE/recent)
 
+<!--
+copy and fill this:
+- ****
+   [[]](https://arxiv.org/abs/)
+   [[pdf]](https://arxiv.org/pdf/)
+   [[repo]](https://github.com/) 
+   - 
+   - 
+
+-->
+
+2019
+---
+
 - **CoaCor: Code Annotation for Code Retrieval with Reinforcement Learning**
-   - CoaCor  : 代码注释, 用于代码检索和强化学习
+   [[1904.00720]](https://arxiv.org/abs/1904.00720)
+   [[pdf]](https://arxiv.org/pdf/1904.00720)
+   [[repo]](https://github.com/LittleYUYU/CoaCor) 
+   - CoaCor  : 代码注释, 用于代码检索和强化学习 *(www 2019)*
    - Ziyu Yao, Jayavardhan Reddy Peddamail, Huan Sun
-   - [https://arxiv.org/abs/1904.00720](https://arxiv.org/abs/1904.00720) *(www 2019)*
-   - [https://github.com/LittleYUYU/CoaCor](https://github.com/LittleYUYU/CoaCor)

@@ -8,10 +8,12 @@
 ## [cs.HC](https://arxiv.org/list/cs.HC/recent)
 
 <!--
-
-- **title**
-   - author
-   - paper
-   - repo
+copy and fill this:
+- ****
+   [[]](https://arxiv.org/abs/)
+   [[pdf]](https://arxiv.org/pdf/)
+   [[repo]](https://github.com/) 
+   - 
+   - 
 
 -->

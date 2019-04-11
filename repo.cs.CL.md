@@ -7,8 +7,23 @@
 
 ## [cs.CL](https://arxiv.org/list/cs.CL/recent) 
 
+<!--
+copy and fill this:
+- ****
+   [[]](https://arxiv.org/abs/)
+   [[pdf]](https://arxiv.org/pdf/)
+   [[repo]](https://github.com/) 
+   - 
+   - 
+
+-->
+
+2019
+---
+
 - **75 Languages, 1 Model: Parsing Universal Dependencies Universally**
+   [[1904.02099]](https://arxiv.org/abs/1904.02099)
+   [[pdf]](https://arxiv.org/pdf/1904.02099)
+   [[repo]](https://github.com/hyperparticle/udify) 
    - udify : 75种语言，1种模型 : 普遍地通用依赖性解析
    - Daniel Kondratyuk
-   - [https://arxiv.org/abs/1904.02099](https://arxiv.org/abs/1904.02099)
-   - [https://github.com/hyperparticle/udify](https://github.com/hyperparticle/udify) *(Waiting for code cleanup)*
