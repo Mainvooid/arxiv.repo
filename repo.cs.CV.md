@@ -124,12 +124,6 @@
 
 ---
 
-- **Bounding Box Regression with Uncertainty for Accurate Object Detection**
-   - KL-Loss :用于精确目标检测中具有不确定性的边界框回归
-   - Yihui He, Chenchen Zhu, Jianren Wang, Marios Savvides, Xiangyu Zhang
-   - [https://arxiv.org/abs/1809.08545](https://arxiv.org/abs/1809.08545) *(CVPR 2019)*
-   - [https://github.com/yihui-he/KL-Loss](https://github.com/yihui-he/KL-Loss)
-
 - **Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**
    - Pseudo-LiDAR : 基于视觉深度估计 填补了自动驾驶三维目标检测的空白
    - Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger
@@ -147,3 +141,17 @@
    - Zilong Huang, Xinggang Wang, Lichao Huang, Chang Huang, Yunchao Wei, Wenyu Liu
    - [https://arxiv.org/abs/1811.11721](https://arxiv.org/abs/1811.11721)
    - [https://github.com/speedinghzl/CCNet](https://github.com/speedinghzl/CCNet)
+
+- **Bounding Box Regression with Uncertainty for Accurate Object Detection**
+[[1809.08545]](https://arxiv.org/abs/1809.08545)
+[[pdf]](https://arxiv.org/pdf/1809.08545)
+[[repo]](https://github.com/yihui-he/KL-Loss)
+   - KL-Loss :用于精确目标检测中具有不确定性的边界框回归 *(CVPR 2019)*
+   - Yihui He, Chenchen Zhu, Jianren Wang, Marios Savvides, Xiangyu Zhang
+
+- **JigsawNet: Shredded Image Reassembly using Convolutional Neural Network and Loop-based Composition**
+[[1809.04137]](https://arxiv.org/abs/1809.04137)
+[[pdf]](https://arxiv.org/pdf/1809.04137)
+[[repo]](https://github.com/Lecanyu/JigsawNet)
+   - JigsawNet : 使用卷积神经网络和基于循环合成的碎片图像重组
+   - Canyu Le, Xin Li
