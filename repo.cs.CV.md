@@ -191,3 +191,13 @@ copy and fill this:
    [[repo]](https://github.com/Lecanyu/JigsawNet)
    - JigsawNet : 使用卷积神经网络和基于循环合成的碎片图像重组
    - Canyu Le, Xin Li
+
+2017
+---
+
+- **High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs**
+   [[1711.11585]](https://arxiv.org/abs/1711.11585)
+   [[pdf]](https://arxiv.org/pdf/1711.11585v2)
+   [[repo]](https://github.com/NVIDIA/pix2pixHD) 
+   - pix2pixHD : 高分辨率图像合成与条件GAN的语义处理
+   - Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro
