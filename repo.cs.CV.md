@@ -28,6 +28,13 @@ copy and fill this:
    - ContextDesc : 使用跨模态上下文扩展局部描述符
    - Zixin Luo, Tianwei Shen, Lei Zhou, Jiahui Zhang, Yao Yao, Shiwei Li, Tian Fang, Long Quan
 
+- **Learning Metrics from Teachers: Compact Networks for Image Embedding**
+   [[1904.03624]](https://arxiv.org/abs/1904.03624)
+   [[pdf]](https://arxiv.org/pdf/1904.03624v1)
+   [[repo]](https://github.com/yulu0724/EmbeddingDistillation) 
+   - EmbeddingDistillation : 从预训练模型学习指标：用于图像嵌入的紧凑网络 *(CVPR2019)*
+   - Lu Yu, Vacit Oguz Yazici, Xialei Liu, Joost van de Weijer, Yongmei Cheng, Arnau Ramisa
+
 - **High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection**
    [[1904.02948]](https://arxiv.org/abs/1904.02948)
    [[pdf]](https://arxiv.org/pdf/1904.02948)
