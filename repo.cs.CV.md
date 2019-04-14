@@ -12,7 +12,7 @@ copy and fill this:
 - ****
    [[]](https://arxiv.org/abs/)
    [[pdf]](https://arxiv.org/pdf/)
-   [[repo]](https://github.com/) 
+   [[repo]](https://github.com/)
    - 
    - 
 
@@ -20,6 +20,14 @@ copy and fill this:
 
 2019
 ---
+
+- **Expressive Body Capture: 3D Hands, Face, and Body from a Single Image**
+   [[1904.05866]](https://arxiv.org/abs/1904.05866)
+   [[pdf]](https://arxiv.org/pdf/1904.05866)
+   [[repo]](https://smpl-x.is.tue.mpg.de/en)
+   [[repo-unofficial]](https://github.com/YeeCY/SMPLpp)
+   - SMPL-X : 富有表现力的身体捕捉：来自单个图像的3D手,脸和身体 *(CVPR 2019)*
+   - Georgios Pavlakos,Vasileios Choutas,Nima Ghorbani,Timo Bolkart,Ahmed AA Osman,Dimitrios Tzionas,Michael J. Black
 
 - **ContextDesc: Local Descriptor Augmentation with Cross-Modality Context**
    [[1904.04084]](https://arxiv.org/abs/1904.04084)
@@ -31,133 +39,133 @@ copy and fill this:
 - **Learning Metrics from Teachers: Compact Networks for Image Embedding**
    [[1904.03624]](https://arxiv.org/abs/1904.03624)
    [[pdf]](https://arxiv.org/pdf/1904.03624v1)
-   [[repo]](https://github.com/yulu0724/EmbeddingDistillation) 
+   [[repo]](https://github.com/yulu0724/EmbeddingDistillation)
    - EmbeddingDistillation : 从预训练模型学习指标：用于图像嵌入的紧凑网络 *(CVPR2019)*
    - Lu Yu, Vacit Oguz Yazici, Xialei Liu, Joost van de Weijer, Yongmei Cheng, Arnau Ramisa
 
 - **High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection**
    [[1904.02948]](https://arxiv.org/abs/1904.02948)
    [[pdf]](https://arxiv.org/pdf/1904.02948)
-   [[repo]](https://github.com/liuwei16/CSP) 
+   [[repo]](https://github.com/liuwei16/CSP)
    - CSP : 高级语义特征检测 : 行人检测的新视角 *(CVPR 2019)*
    - Wei Liu, Shengcai Liao, Weiqiang Ren, Weidong Hu, Yinan Yu
 
 - **Libra R-CNN: Towards Balanced Learning for Object Detection**
    [[1904.02701]](https://arxiv.org/abs/1904.02701)
    [[pdf]](https://arxiv.org/pdf/1904.02701)
-   [[repo]](https://github.com/OceanPang/Libra_R-CNN) 
+   [[repo]](https://github.com/OceanPang/Libra_R-CNN)
    - Libra R-CNN : 面向对象检测的均衡学习 *(CVPR 2019)*
    - Jiangmiao Pang, Kai Chen, Jianping Shi, Huajun Feng, Wanli Ouyang, Dahua Lin
 
 - **YOLACT: Real-time Instance Segmentation**
    [[1904.02689]](https://arxiv.org/abs/1904.02689)
    [[pdf]](https://arxiv.org/pdf/1904.02689)
-   [[repo]](https://github.com/dbolya/yolact) 
+   [[repo]](https://github.com/dbolya/yolact)
    - YOLACT : 实时的实例分割
    - Daniel Bolya, Chong Zhou, Fanyi Xiao, Yong Jae Lee
 
 - **CubiCasa5K: A Dataset and an Improved Multi-Task Model for Floorplan Image Analysis**
    [[1904.01920]](https://arxiv.org/abs/1904.01920)
    [[pdf]](https://arxiv.org/pdf/1904.01920)
-   [[repo]](https://github.com/CubiCasa/CubiCasa5k) 
+   [[repo]](https://github.com/CubiCasa/CubiCasa5k)
    - CubiCasa5K : 用于平面图图像分析的数据集和改进的多任务模型
    - Ahti Kalervo, Juha Ylioinas, MarkusHäikiö, Antti Karhu, Juho Kannala
 
 - **ICface: Interpretable and Controllable Face Reenactment Using GANs**
    [[1904.01909]](https://arxiv.org/abs/1904.01909)
    [[pdf]](https://arxiv.org/pdf/1904.01909)
-   [[repo]](https://github.com/Blade6570/icface) 
+   [[repo]](https://github.com/Blade6570/icface)
    - ICface : 使用GANs进行可解释和可控的人脸重现
    - Soumya Tripathy, Juho Kannala, Esa Rahtu
 
 - **FaceQnet: Quality Assessment for Face Recognition based on Deep Learning**
    [[1904.01740]](https://arxiv.org/abs/1904.01740)
    [[pdf]](https://arxiv.org/pdf/1904.01740)
-   [[repo]](https://github.com/uam-biometrics/FaceQnet) 
+   [[repo]](https://github.com/uam-biometrics/FaceQnet)
    - FaceQnet : 基于深度学习的人脸识别质量评估 *(ICB 2019)*
    - Javier Hernandez-Ortega, Javier Galbally, Julian Fierrez, Rudolf Haraksim, Laurent Beslay
 
 - **Res2Net: A New Multi-scale Backbone Architecture**
    [[1904.01169]](https://arxiv.org/abs/1904.01169)
    [[pdf]](https://arxiv.org/pdf/1904.01169)
-   [[comning soon]](https://github.com/) 
+   [[comning soon]](https://github.com/)
    - Res2Net : 一种新的多尺度骨干结构
    - Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr
 
 - **Lending Orientation to Neural Networks for Cross-view Geo-localization**
    [[1903.12351]](https://arxiv.org/abs/1903.12351)
    [[pdf]](https://arxiv.org/pdf/1903.12351)
-   [[repo]](https://github.com/Liumouliu/OriCNN) 
+   [[repo]](https://github.com/Liumouliu/OriCNN)
    - OriCNN : 借助于神经网络的交叉视图地理定位 *(CVPR 2019)*
    - Liu Liu, Hongdong Li
 
 - **TensorMask: A Foundation for Dense Object Segmentation**
    [[1903.12174]](https://arxiv.org/abs/1903.12174)
    [[pdf]](https://arxiv.org/pdf/1903.12174)
-   [[comning soon]](https://github.com/) 
+   [[comning soon]](https://github.com/)
    - TensorMask : 密集对象分割的基础
    - Xinlei Chen, Ross Girshick, Kaiming He, Piotr Dollár
 
 - **SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition**
    [[1903.05831]](https://arxiv.org/abs/1903.05831)
    [[pdf]](https://arxiv.org/pdf/1903.05831)
-   [[repo]](https://github.com/TuSimple/simpledet) 
+   [[repo]](https://github.com/TuSimple/simpledet)
    - SimpleDet : 一个简单而通用的分布式对象检测和实例识别框架
    - Yuntao Chen, Chenxia Han, Yanghao Li, Zehao Huang, Yi Jiang, Naiyan Wang, Zhaoxiang Zhang
 
 - **Mask Scoring R-CNN**
    [[1903.00241]](https://arxiv.org/abs/1903.00241)
    [[pdf]](https://arxiv.org/pdf/1903.00241)
-   [[repo]](https://github.com/zjhuang22/maskscoring_rcnn) 
+   [[repo]](https://github.com/zjhuang22/maskscoring_rcnn)
    - Mask Scoring R-CNN : Mask R-CNN的改进  *(CVPR 2019)*
    - Zhaojin Huang, Lichao Huang, Yongchao Gong, Chang Huang, Xinggang Wang
 
 - **Stereo R-CNN based 3D Object Detection for Autonomous Driving**
    [[1902.09738]](https://arxiv.org/abs/1902.09738)
    [[pdf]](https://arxiv.org/pdf/1902.09738)
-   [[comning soon]](https://github.com/) 
+   [[comning soon]](https://github.com/)
    - Stereo R-CNN : 自动驾驶三维目标检测 *(CVPR 2019)*
    - Peiliang Li, Xiaozhi Chen, Shaojie Shen
 
 - **Deep High-Resolution Representation Learning for Human Pose Estimation**
    [[1902.09212]](https://arxiv.org/abs/1902.09212)
    [[pdf]](https://arxiv.org/pdf/1902.09212)
-   [[repo]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) 
+   [[repo]](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
    - Pose HRNet: 用于人体姿势估计的深度高分辨率表示学习 *(CVPR 2019)*
    - Ke Sun, Bin Xiao, Dong Liu, Jingdong Wang
 
 - **HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification**
    [[1902.06701]](https://arxiv.org/abs/1902.06701)
    [[pdf]](https://arxiv.org/pdf/1902.06701)
-   [[repo]](https://github.com/gokriznastic/HybridSN) 
+   [[repo]](https://github.com/gokriznastic/HybridSN)
    - HybridSN : 探索高光谱图像分类的3D-2D CNN特征层次
    - Swalpa Kumar Roy, Gopal Krishna, Shiv Ram Dubey, Bidyut B. Chaudhuri
 
 - **Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank**
    [[1902.06285]](https://arxiv.org/abs/1902.06285)
    [[pdf]](https://arxiv.org/pdf/1902.06285)
-   [[repo]](https://github.com/xialeiliu/RankIQA) 
+   [[repo]](https://github.com/xialeiliu/RankIQA)
    - RankIQA : 利用自主学习排序在CNN中利用未标记数据 *(TPAMI)*
    - Xialei Liu, Joost van de Weijer, Andrew D. Bagdanov
 
 - **Bag of Freebies for Training Object Detection Neural Networks**
    [[1902.04103]](https://arxiv.org/abs/1902.04103)
    [[pdf]](https://arxiv.org/pdf/1902.04103)
-   [[repo]](https://github.com/dmlc/gluon-cv) 
+   [[repo]](https://github.com/dmlc/gluon-cv)
    - Glouon CV : 训练目标检测神经网络的免费工具包
    - Zhi Zhang, Tong He, Hang Zhang, Zhongyuan Zhang, Junyuan Xie, Mu Li
 
 - **Virtual Conditional Generative Adversarial Networks**
    [[1901.09822]](https://arxiv.org/abs/1901.09822)
    [[pdf]](https://arxiv.org/pdf/1901.09822)
-   [[repo]](https://github.com/annonnymmouss/vcgan) 
+   [[repo]](https://github.com/annonnymmouss/vcgan)
    - VCGAN : 虚拟条件生成对抗网络
    - Haifeng Shi, Guanyu Cai, Yuqin Wang, Shaohua Shang, Lianghua He
 
 - **DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images**
    [[1901.07973]](https://arxiv.org/abs/1901.07973)
    [[pdf]](https://arxiv.org/pdf/1901.07973)
-   [[repo]](https://github.com/switchablenorms/DeepFashion2) 
+   [[repo]](https://github.com/switchablenorms/DeepFashion2)
    - DeepFashion2 : 用于服装图像的检测、姿势估计、分割和重识别的通用基准
    - Yuying Ge, Ruimao Zhang, Lingyun Wu, Xiaogang Wang, Xiaoou Tang, Ping Luo
 
@@ -167,21 +175,21 @@ copy and fill this:
 - **Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving**
    [[1812.07179]](https://arxiv.org/abs/1812.07179)
    [[pdf]](https://arxiv.org/pdf/1812.07179)
-   [[repo]](https://github.com/mileyan/pseudo_lidar) 
+   [[repo]](https://github.com/mileyan/pseudo_lidar)
    - Pseudo-LiDAR : 基于视觉深度估计 填补了自动驾驶三维目标检测的空白 *(CVPR 2019)*
    - Yan Wang, Wei-Lun Chao, Divyansh Garg, Bharath Hariharan, Mark Campbell, Kilian Q. Weinberger
 
 - **PoseFix: Model-agnostic General Human Pose Refinement Network**
    [[1812.03595]](https://arxiv.org/abs/1812.03595)
    [[pdf]](https://arxiv.org/pdf/1812.03595)
-   [[repo]](https://github.com/mks0601/PoseFix_RELEASE) 
+   [[repo]](https://github.com/mks0601/PoseFix_RELEASE)
    - PoseFix : 模型无关的一般人体姿态优化网络 *(CVPR 2019)*
    - Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee
 
 - **CCNet: Criss-Cross Attention for Semantic Segmentation**
    [[1811.11721]](https://arxiv.org/abs/1811.11721)
    [[pdf]](https://arxiv.org/pdf/1811.11721)
-   [[repo]](https://github.com/speedinghzl/CCNet) 
+   [[repo]](https://github.com/speedinghzl/CCNet)
    - CCNet : 语义分割的交叉注意力模型
    - Zilong Huang, Xinggang Wang, Lichao Huang, Chang Huang, Yunchao Wei, Wenyu Liu
 
@@ -205,6 +213,6 @@ copy and fill this:
 - **High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs**
    [[1711.11585]](https://arxiv.org/abs/1711.11585)
    [[pdf]](https://arxiv.org/pdf/1711.11585v2)
-   [[repo]](https://github.com/NVIDIA/pix2pixHD) 
+   [[repo]](https://github.com/NVIDIA/pix2pixHD)
    - pix2pixHD : 高分辨率图像合成与条件GAN的语义处理
    - Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro
