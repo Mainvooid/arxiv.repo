@@ -21,6 +21,13 @@ copy and fill this:
 2019
 ---
 
+- **Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation**
+   [[1904.06807]](https://arxiv.org/abs/1904.06807)
+   [[pdf]](https://arxiv.org/pdf/1904.06807v1)
+   [[repo]](https://github.com/Ha0Tang/SelectionGAN)
+   - SelectionGAN : 具有级联语义指导的多通道注意选择GAN用于跨视图图像转换
+   - Hao Tang, Dan Xu, Nicu Sebe, Yanzhi Wang, Jason J. Corso, Yan Yan
+
 - **Expressive Body Capture: 3D Hands, Face, and Body from a Single Image**
    [[1904.05866]](https://arxiv.org/abs/1904.05866)
    [[pdf]](https://arxiv.org/pdf/1904.05866)
