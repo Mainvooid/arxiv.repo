@@ -21,6 +21,13 @@ copy and fill this:
 2019
 ---
 
+- **SparseMask: Differentiable Connectivity Learning for Dense Image Prediction**
+   [[1904.07642]](https://arxiv.org/abs/1904.07642)
+   [[pdf]](https://arxiv.org/pdf/1904.07642)
+   [[repo]](https://github.com/wuhuikai/SparseMask)
+   - SparseMask : 用于密集图像预测的可区分连通性学习
+   - Huikai Wu, Junge Zhang, Kaiqi Huang
+
 - **Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds**
    [[1904.07537]](https://arxiv.org/abs/1904.07537)
    [[pdf]](https://arxiv.org/pdf/1904.07537)
