@@ -21,6 +21,13 @@ copy and fill this:
 2019
 ---
 
+- **Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds**
+   [[1904.07537]](https://arxiv.org/abs/1904.07537)
+   [[pdf]](https://arxiv.org/pdf/1904.07537)
+   [[repo-unofficial]](https://github.com/AI-liu/Complex-YOLO)
+   - Complexer-YOLO : 基于语义点云的实时3D对象检测和跟踪
+   - Martin Simon, Karl Amende, Andrea Kraus, Jens Honer, Timo Sämann, Hauke Kaulbersch, Stefan Milz, Horst Michael Gross 
+
 - **ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging**
    [[1904.06830]](https://arxiv.org/abs/1904.06830)
    [[pdf]](https://arxiv.org/pdf/1904.06830v1)
