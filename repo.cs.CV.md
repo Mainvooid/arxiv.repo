@@ -21,6 +21,13 @@ copy and fill this:
 2019
 ---
 
+- **nnU-Net: Breaking the Spell on Successful Medical Image Segmentation**
+   [[1904.08128]](https://arxiv.org/abs/1904.08128)
+   [[pdf]](https://arxiv.org/pdf/1904.08128v1)
+   [[repo]](https://github.com/MIC-DKFZ/nnunet)
+   - nnU-Net : 打破医学图像分割的魔咒
+   - Fabian Isensee, Jens Petersen, Simon A. A. Kohl, Paul F. Jäger, Klaus H. Maier-Hein
+
 - **CenterNet: Object Detection with Keypoint Triplets**
    [[1904.08189]](https://arxiv.org/abs/1904.08189)
    [[pdf]](https://arxiv.org/pdf/1904.08189v1)
