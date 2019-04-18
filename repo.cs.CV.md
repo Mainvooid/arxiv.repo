@@ -21,6 +21,13 @@ copy and fill this:
 2019
 ---
 
+- **CenterNet: Object Detection with Keypoint Triplets**
+   [[1904.08189]](https://arxiv.org/abs/1904.08189)
+   [[pdf]](https://arxiv.org/pdf/1904.08189v1)
+   [[repo]](https://github.com/Duankaiwen/CenterNet)
+   - CenterNet：使用关键点三元组进行对象检测
+   - Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, Qi Tian
+
 - **SparseMask: Differentiable Connectivity Learning for Dense Image Prediction**
    [[1904.07642]](https://arxiv.org/abs/1904.07642)
    [[pdf]](https://arxiv.org/pdf/1904.07642)
