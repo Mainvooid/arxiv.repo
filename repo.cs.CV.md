@@ -21,19 +21,26 @@ copy and fill this:
 2019
 ---
 
+- **CenterNet: Object Detection with Keypoint Triplets**
+   [[1904.08189]](https://arxiv.org/abs/1904.08189)
+   [[pdf]](https://arxiv.org/pdf/1904.08189v1)
+   [[repo]](https://github.com/Duankaiwen/CenterNet)
+   - CenterNet : 使用关键点三元组进行对象检测
+   - Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, Qi Tian
+
+- **MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation**
+   [[1904.08141]](https://arxiv.org/abs/1904.08141)
+   [[pdf]](https://arxiv.org/pdf/1904.08141v1)
+   [[repo]](https://github.com/shuangjiexu/MHP-VOS)
+   - MHP-VOS : 视频对象分割的多个假设传播
+   - Shuangjie Xu, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou
+
 - **nnU-Net: Breaking the Spell on Successful Medical Image Segmentation**
    [[1904.08128]](https://arxiv.org/abs/1904.08128)
    [[pdf]](https://arxiv.org/pdf/1904.08128v1)
    [[repo]](https://github.com/MIC-DKFZ/nnunet)
    - nnU-Net : 打破医学图像分割的魔咒
    - Fabian Isensee, Jens Petersen, Simon A. A. Kohl, Paul F. Jäger, Klaus H. Maier-Hein
-
-- **CenterNet: Object Detection with Keypoint Triplets**
-   [[1904.08189]](https://arxiv.org/abs/1904.08189)
-   [[pdf]](https://arxiv.org/pdf/1904.08189v1)
-   [[repo]](https://github.com/Duankaiwen/CenterNet)
-   - CenterNet：使用关键点三元组进行对象检测
-   - Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, Qi Tian
 
 - **SparseMask: Differentiable Connectivity Learning for Dense Image Prediction**
    [[1904.07642]](https://arxiv.org/abs/1904.07642)
