@@ -32,7 +32,7 @@ copy and fill this:
    [[1904.08141]](https://arxiv.org/abs/1904.08141)
    [[pdf]](https://arxiv.org/pdf/1904.08141v1)
    [[repo]](https://github.com/shuangjiexu/MHP-VOS)
-   - MHP-VOS : 视频对象分割的多个假设传播
+   - MHP-VOS : 视频对象分割的多个假设传播 *(CVPR 2019 Oral)*
    - Shuangjie Xu, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou
 
 - **nnU-Net: Breaking the Spell on Successful Medical Image Segmentation**
