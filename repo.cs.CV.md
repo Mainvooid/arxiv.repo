@@ -21,6 +21,13 @@ copy and fill this:
 2019
 ---
 
+- **Attentive Single-Tasking of Multiple Tasks**
+   [[1904.08918]](https://arxiv.org/abs/1904.08918)
+   [[pdf]](https://arxiv.org/pdf/1904.08918v1)
+   [[repo]](http://vision.ee.ethz.ch/~kmaninis/astmt/)
+   - 专注于多任务的单任务(通过调整和对抗训练进行多任务学习) *(CVPR 2019)*
+   - Kevis-Kokitsi Maninis, Ilija Radosavovic, Iasonas Kokkinos
+
 - **CenterNet: Object Detection with Keypoint Triplets**
    [[1904.08189]](https://arxiv.org/abs/1904.08189)
    [[pdf]](https://arxiv.org/pdf/1904.08189v1)
