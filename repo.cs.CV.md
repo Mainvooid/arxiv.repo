@@ -28,6 +28,13 @@ copy and fill this:
    - 专注于多任务的单任务(通过调整和对抗训练进行多任务学习) *(CVPR 2019)*
    - Kevis-Kokitsi Maninis, Ilija Radosavovic, Iasonas Kokkinos
 
+- **CornerNet-Lite: Efficient Keypoint Based Object Detection**
+   [[1904.08900]](https://arxiv.org/abs/1904.08900)
+   [[pdf]](https://arxiv.org/pdf/1904.08900v1)
+   [[repo]](https://github.com/princeton-vl/CornerNet-Lite)
+   - CornerNet-Lite : 基于关键点的高效对象检测
+   - Hei Law，Yun Teng，Olga Russakovsky，Jia Deng
+
 - **CenterNet: Object Detection with Keypoint Triplets**
    [[1904.08189]](https://arxiv.org/abs/1904.08189)
    [[pdf]](https://arxiv.org/pdf/1904.08189v1)
