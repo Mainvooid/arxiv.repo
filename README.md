@@ -49,5 +49,5 @@ Item format example:
 Items should be sorted in chronological order,newer papers should be inserted from the head of the file.
 
 ## Proposals
-Consider whether Python crawlers can be used to automatically capture and generate MD files.
-Fork this repository to track the latest changes.
+- Consider whether Python crawlers can be used to automatically capture and generate MD files.
+- Fork this repository to track the latest changes.
