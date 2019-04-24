@@ -24,8 +24,8 @@ copy and fill this:
 - **STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing**
    [[1904.09709]](https://arxiv.org/abs/1904.09709)
    [[pdf]](https://arxiv.org/pdf/1904.09709v1)
-   [[repo]](https://github.com/)
-   - STGAN：一种用于任意图像属性编辑的统一选择性传输网络 *(CVPR 2019)*
+   [[repo]](https://github.com/csmliu/STGAN)
+   - STGAN ：一种用于任意图像属性编辑的统一选择性传输网络 *(CVPR 2019)*
    - Ming Liu, Yukang Ding, Min Xia, Xiao Liu, Errui Ding, Wangmeng Zuo, Shilei Wen
 
 - **FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing**
