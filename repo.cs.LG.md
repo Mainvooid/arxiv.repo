@@ -21,6 +21,13 @@ copy and fill this:
 2019
 ---
 
+- **DAG-GNN: DAG Structure Learning with Graph Neural Networks**
+   [[1904.10098]](https://arxiv.org/abs/1904.10098)
+   [[pdf]](https://arxiv.org/pdf/1904.10098v1)
+   [[repo]](https://github.com/fishmoon1234/DAG-GNN) 
+   - DAG-GNN ：用图神经网络进行DAG结构学习 *(ICML 2019)*
+   - Yue Yu, Jie Chen, Tian Gao, Mo Yu
+
 - **PyTorch-BigGraph: A Large-scale Graph Embedding System**
    [[1903.12287]](https://arxiv.org/abs/1903.12287)
    [[pdf]](https://arxiv.org/pdf/1903.12287)
