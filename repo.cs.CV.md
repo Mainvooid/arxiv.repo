@@ -21,6 +21,13 @@ copy and fill this:
 2019
 ---
 
+- **FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing**
+   [[1904.09290]](https://arxiv.org/abs/1904.09290)
+   [[pdf]](https://arxiv.org/pdf/1904.09290v1)
+   [[repo]](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
+   - FeatherNets ：人脸反欺骗卷积神经网络
+   - Peng Zhang, Fuhao Zou, Zhiwen Wu, Nengli Dai, Skarpness Mark, Michael Fu, Juan Zhao, Kai Li
+
 - **Attentive Single-Tasking of Multiple Tasks**
    [[1904.08918]](https://arxiv.org/abs/1904.08918)
    [[pdf]](https://arxiv.org/pdf/1904.08918v1)
