@@ -20,6 +20,12 @@ copy and fill this:
 
 2019
 ---
+- **TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures**
+   [[1904.12795]](https://arxiv.org/abs/1904.12795)
+   [[pdf]](https://arxiv.org/pdf/1904.12795v1)
+   [[repo]](https://github.com/afruehstueck/tileGAN)
+   - TileGAN：大规模非均匀纹理的合成
+   - Anna Frühstück, Ibraheem Alhashim, Peter Wonka
 
 - **STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing**
    [[1904.09709]](https://arxiv.org/abs/1904.09709)
