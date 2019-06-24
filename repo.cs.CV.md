@@ -252,6 +252,13 @@ copy and fill this:
    - DeepFashion2 : 用于服装图像的检测、姿势估计、分割和重识别的通用基准
    - Yuying Ge, Ruimao Zhang, Lingyun Wu, Xiaogang Wang, Xiaoou Tang, Ping Luo
 
+- **EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning**
+   [[1901.00212]](https://arxiv.org/abs/1901.00212v3)
+   [[pdf]](https://arxiv.org/pdf/1901.00212v3)
+   [[repo]](https://github.com/knazeri/edge-connect)
+   - EdgeConnect ：使用对抗性边缘学习进行生成图像修复
+   - Kamyar Nazeri，Eric Ng，Tony Joseph，Faisal Z. Qureshi，Mehran Ebrahimi
+
 2018
 ---
 
