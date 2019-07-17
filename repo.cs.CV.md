@@ -20,6 +20,13 @@ copy and fill this:
 
 2019
 ---
+- **On the ''steerability" of generative adversarial networks**
+   [[1907.07171]](https://arxiv.org/abs/1907.07171v1)
+   [[pdf]](https://arxiv.org/pdf/1907.07171v1.pdf)
+   [[repo]](https://github.com/ali-design/gan_steerability)
+   - 论生成对抗网络的"可操作性"
+   - Ali Jahanian，Lucy Chai，Phillip Isola
+
 - **TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures**
    [[1904.12795]](https://arxiv.org/abs/1904.12795)
    [[pdf]](https://arxiv.org/pdf/1904.12795v1)
