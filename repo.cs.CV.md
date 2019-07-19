@@ -203,6 +203,13 @@ copy and fill this:
    - SimpleDet : 一个简单而通用的分布式对象检测和实例识别框架
    - Yuntao Chen, Chenxia Han, Yanghao Li, Zehao Huang, Yi Jiang, Naiyan Wang, Zhaoxiang Zhang
 
+- **Pluralistic Image Completion**
+   [[1903.04227]](https://arxiv.org/abs/1903.04227v2)
+   [[pdf]](https://arxiv.org/pdf/1903.04227v2)
+   [[repo]](https://github.com/lyndonzheng/Pluralistic-Inpainting)
+   - 多元图像补全 *(CVPR 2019)*
+   - Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai
+
 - **Mask Scoring R-CNN**
    [[1903.00241]](https://arxiv.org/abs/1903.00241)
    [[pdf]](https://arxiv.org/pdf/1903.00241)
