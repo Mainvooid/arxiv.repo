@@ -26,6 +26,7 @@ We hope that the authors of the relevant papers will actively add and update inf
 - [Machine Learning](repo.cs.LG.md)
 - [Neural and Evolutionary Computing](repo.cs.NE.md)
 - [Software Engineering](repo.cs.SE.md)
+- [Quantum Physics](repo.quant-ph.md)
 
 ## Related list
 - [A paper list of object detection using deep learning.](https://github.com/hoya012/deep_learning_object_detection)
