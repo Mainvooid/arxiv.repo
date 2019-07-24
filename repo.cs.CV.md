@@ -207,7 +207,7 @@ copy and fill this:
    [[1903.04227]](https://arxiv.org/abs/1903.04227v2)
    [[pdf]](https://arxiv.org/pdf/1903.04227v2)
    [[repo]](https://github.com/lyndonzheng/Pluralistic-Inpainting)
-   - 多元图像补全 *(CVPR 2019)*
+   - pluralistic: 多元图像补全 *(CVPR 2019)*
    - Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai
 
 - **Mask Scoring R-CNN**
