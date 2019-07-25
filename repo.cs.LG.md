@@ -37,6 +37,12 @@ copy and fill this:
 
 2018
 ---
+- **Learning to Decompose and Disentangle Representations for Video Prediction**
+   [[1806.04166]](https://arxiv.org/abs/1806.04166v2)
+   [[pdf]](https://arxiv.org/pdf/1806.04166v2)
+   [[repo]](https://github.com/jthsieh/DDPAE-video-prediction) 
+   - DDPAE: 学习分解和解开视频预测的表示 *(NeurIPS 2018)*
+   - Jun-Ting Hsieh, Bingbin Liu, De-An Huang, Li Fei-Fei, Juan Carlos Niebles
 
 - **Horovod: fast and easy distributed deep learning in TensorFlow**
    [[1802.05799]](https://arxiv.org/abs/1802.05799)
