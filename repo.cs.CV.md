@@ -325,5 +325,5 @@ copy and fill this:
    [[1708.00284]](https://arxiv.org/abs/1708.00284v2)
    [[pdf]](https://arxiv.org/pdf/1708.00284v2)
    [[repo-unofficial]](https://github.com/haleqiu/Dual-Motion-Compensation)
-   - Dual Motion GAN: 用于未来流嵌入式视频预测的双运动GAN
+   - Dual Motion GAN: 用于未来流嵌入式视频预测的双运动GAN *(ICCV 17)*
    - Xiaodan Liang，Lisa Lee，Wei Dai，Eric P. Xing
