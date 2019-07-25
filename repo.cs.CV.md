@@ -325,5 +325,12 @@ copy and fill this:
    [[1708.00284]](https://arxiv.org/abs/1708.00284v2)
    [[pdf]](https://arxiv.org/pdf/1708.00284v2)
    [[repo-unofficial]](https://github.com/haleqiu/Dual-Motion-Compensation)
-   - Dual Motion GAN: 用于未来流嵌入式视频预测的双运动GAN *(ICCV 17)*
+   - Dual Motion GAN: 用于未来流嵌入式视频预测的双运动GAN *(ICCV 2017)*
    - Xiaodan Liang，Lisa Lee，Wei Dai，Eric P. Xing
+
+- **Video Frame Synthesis using Deep Voxel Flow**
+   [[1702.02463]](https://arxiv.org/abs/1702.02463v2)
+   [[pdf]](https://arxiv.org/pdf/1702.02463v2)
+   [[repo]](https://github.com/lxx1991/pytorch-voxel-flow)
+   - Voxel Flow: 使用深体素流的视频帧合成 *(ICCV 2017)*
+   - Ziwei Liu, Raymond A. Yeh, Xiaoou Tang, Yiming Liu, Aseem Agarwala
