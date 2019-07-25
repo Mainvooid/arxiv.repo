@@ -320,3 +320,10 @@ copy and fill this:
    [[repo]](https://github.com/NVIDIA/pix2pixHD)
    - pix2pixHD : 高分辨率图像合成与条件GAN的语义处理
    - Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro
+
+- **Dual Motion GAN for Future-Flow Embedded Video Prediction**
+   [[1708.00284]](https://arxiv.org/abs/1708.00284v2)
+   [[pdf]](https://arxiv.org/pdf/1708.00284v2)
+   [[repo-unofficial]](https://github.com/haleqiu/Dual-Motion-Compensation)
+   - Dual Motion GAN: 用于未来流嵌入式视频预测的双运动GAN
+   - Xiaodan Liang，Lisa Lee，Wei Dai，Eric P. Xing
