@@ -178,7 +178,7 @@ copy and fill this:
 - **Res2Net: A New Multi-scale Backbone Architecture**
    [[1904.01169]](https://arxiv.org/abs/1904.01169)
    [[pdf]](https://arxiv.org/pdf/1904.01169)
-   [[comning soon]](https://github.com/)
+   [[repo-unofficial]](https://github.com/4uiiurz1/pytorch-res2net)
    - Res2Net : 一种新的多尺度骨干结构
    - Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr
 
@@ -220,7 +220,7 @@ copy and fill this:
 - **Stereo R-CNN based 3D Object Detection for Autonomous Driving**
    [[1902.09738]](https://arxiv.org/abs/1902.09738)
    [[pdf]](https://arxiv.org/pdf/1902.09738)
-   [[comning soon]](https://github.com/)
+   [[repo]](https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN)
    - Stereo R-CNN : 自动驾驶三维目标检测 *(CVPR 2019)*
    - Peiliang Li, Xiaozhi Chen, Shaojie Shen
 
