@@ -50,3 +50,12 @@ copy and fill this:
    [[repo]](https://github.com/horovod/horovod) 
    - Horovod : 在TensorFlow中快速简便地分发深度学习
    - Alexander Sergeev, Mike Del Balso
+
+2017
+---
+- **Wasserstein GAN**
+   [[1701.07875]](https://arxiv.org/abs/1701.07875v3)
+   [[pdf]](https://arxiv.org/pdf/1701.07875v3)
+   [[repo]](https://github.com/martinarjovsky/WassersteinGAN) 
+   - WGAN: 沃瑟斯坦GAN
+   - Martin Arjovsky, Soumith Chintala, Léon Bottou
