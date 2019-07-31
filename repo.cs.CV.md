@@ -20,6 +20,13 @@ copy and fill this:
 
 2019
 ---
+- **Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks**
+   [[1907.13106]](https://arxiv.org/abs/1907.13106v1)
+   [[pdf]](https://arxiv.org/pdf/1907.13106v1)
+   [[repo]](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)
+   - UMSN: 基于不确定性引导的多流语义网络的人脸图像去模糊 *(TIP 2019)*
+   - Rajeev Yasarla, Federico Perazzi, Vishal M. Patel
+
 - **On the ''steerability" of generative adversarial networks**
    [[1907.07171]](https://arxiv.org/abs/1907.07171v1)
    [[pdf]](https://arxiv.org/pdf/1907.07171v1.pdf)
