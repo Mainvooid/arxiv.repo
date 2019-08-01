@@ -311,6 +311,13 @@ copy and fill this:
    - CCNet : 语义分割的交叉注意力模型
    - Zilong Huang, Xinggang Wang, Lichao Huang, Chang Huang, Yunchao Wei, Wenyu Liu
 
+- **FutureGAN: Anticipating the Future Frames of Video Sequences using Spatio-Temporal 3d Convolutions in Progressively Growing GANs**
+   [[1810.01325]](https://arxiv.org/abs/1810.01325v2)
+   [[pdf]](https://arxiv.org/pdf/1810.01325v2)
+   [[repo]](https://github.com/TUM-LMF/FutureGAN)
+   - FutureGAN: 在逐步增长的GAN中使用时空三维卷积预测视频序列的未来帧
+   - Sandra Aigner, Marco Körner
+
 - **Bounding Box Regression with Uncertainty for Accurate Object Detection**
    [[1809.08545]](https://arxiv.org/abs/1809.08545)
    [[pdf]](https://arxiv.org/pdf/1809.08545)
