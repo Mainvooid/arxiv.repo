@@ -315,7 +315,7 @@ copy and fill this:
    [[1810.01325]](https://arxiv.org/abs/1810.01325v2)
    [[pdf]](https://arxiv.org/pdf/1810.01325v2)
    [[repo]](https://github.com/TUM-LMF/FutureGAN)
-   - FutureGAN: 在逐步增长的GAN中使用时空三维卷积预测视频序列的未来帧
+   - FutureGAN: 在PGGAN中使用时空三维卷积预测视频序列的未来帧
    - Sandra Aigner, Marco Körner
 
 - **Bounding Box Regression with Uncertainty for Accurate Object Detection**
