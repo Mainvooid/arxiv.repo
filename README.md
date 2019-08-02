@@ -31,6 +31,7 @@ We hope that the authors of the relevant papers will actively add and update inf
 ## Related list
 - [A paper list of object detection using deep learning.](https://github.com/hoya012/deep_learning_object_detection)
 - [Recommended Papers for Deep Learning in Computer Vision Field.](https://github.com/ArcherFMY/Paper_Reading_List)
+- [Summaries and notes on Deep Learning research papers.[Previous articles in 2018.2]](https://github.com/dennybritz/deeplearning-papernotes)
 
 ## Contribution
 Such a file naming format is conducive to retrieval and classification.
