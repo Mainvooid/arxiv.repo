@@ -210,6 +210,13 @@ copy and fill this:
    - TensorMask : 密集对象分割的基础
    - Xinlei Chen, Ross Girshick, Kaiming He, Piotr Dollár
 
+- **Semantic Image Synthesis with Spatially-Adaptive Normalization**
+   [[1903.07291]](https://arxiv.org/abs/1903.07291v1)
+   [[pdf]](https://arxiv.org/pdf/1903.07291v1)
+   [[repo]](https://github.com/NVlabs/SPADE)
+   - SPADE: 空间自适应归一化的语义图像合成 *(CVPR 2019 oral)*
+   - Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu
+
 - **SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition**
    [[1903.05831]](https://arxiv.org/abs/1903.05831)
    [[pdf]](https://arxiv.org/pdf/1903.05831)
