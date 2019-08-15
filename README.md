@@ -24,6 +24,7 @@ We hope that the authors of the relevant papers will actively add and update inf
 - [Distributed, Parallel, and Cluster Computing](repo.cs.DC.md)
 - [Human-Computer Interaction](repo.cs.HC.md)
 - [Machine Learning](repo.cs.LG.md)
+- [Multimedia](repo.cs.MM.md)
 - [Neural and Evolutionary Computing](repo.cs.NE.md)
 - [Software Engineering](repo.cs.SE.md)
 - [Quantum Physics](repo.quant-ph.md)
