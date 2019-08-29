@@ -20,6 +20,12 @@ copy and fill this:
 
 2019
 ---
+- **Multinomial Distribution Learning for Effective Neural Architecture Search**
+   [[1905.07529]](https://arxiv.org/abs/1905.07529)
+   [[pdf]](https://arxiv.org/pdf/1905.07529)
+   [[repo]](https://github.com/tanglang96/MDENAS)
+   - MDENAS: 多项式分布学习用于实际的神经结构搜索
+   - Xiawu Zheng, Rongrong Ji, Lang Tang, Baochang Zhang, Jianzhuang Liu, Qi Tian
 
 - **DAG-GNN: DAG Structure Learning with Graph Neural Networks**
    [[1904.10098]](https://arxiv.org/abs/1904.10098)
