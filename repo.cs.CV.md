@@ -20,6 +20,13 @@ copy and fill this:
 
 2019
 ---
+- **InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting**
+   [[1908.07801]](https://arxiv.org/abs/1908.07801v1)
+   [[pdf]](https://arxiv.org/pdf/1908.07801v1)
+   [[repo]](https://github.com/GothicAi/Instaboost)
+   - InstaBoost：通过概率图引导的复制粘贴来增强实例分割 *(ICCV 2019)*
+   - Hao-Shu Fang, Jianhua Sun, Runzhong Wang, Minghao Gou, Yong-Lu Li, Cewu Lu
+
 - **Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks**
    [[1907.13106]](https://arxiv.org/abs/1907.13106v1)
    [[pdf]](https://arxiv.org/pdf/1907.13106v1)
