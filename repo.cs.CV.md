@@ -20,6 +20,13 @@ copy and fill this:
 
 2019
 ---
+- **PDANet: Polarity-consistent Deep Attention Network for Fine-grained Visual Emotion Regression**
+   [[1909.05693]](https://arxiv.org/abs/1909.05693v1)
+   [[pdf]](https://arxiv.org/pdf/1909.05693)
+   [[repo]](https://github.com/ZizhouJia/PDANet)
+   - PDANet：用于细粒度视觉情绪回归的极性一致深度注意网络 *(ACM Multimedia 2019)*
+   - Sicheng Zhao, Zizhou Jia, Hui Chen, Leida Li, Guiguang Ding, Kurt Keutzer
+
 - **InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting**
    [[1908.07801]](https://arxiv.org/abs/1908.07801v1)
    [[pdf]](https://arxiv.org/pdf/1908.07801v1)
